@@ -245,7 +245,7 @@ The engine is organized into modular components following clean separation of co
 
 ```bash
 # Clone the repository
-git clone https://github.com/codev-aryan/sqlite-implementation.git
+git clone https://github.com/mehta-aryan/sqlite-implementation.git
 cd sqlite-implementation
 
 # Create build directory
@@ -313,6 +313,6 @@ This project deepened my understanding of:
 
 **Built with ❤️ for systems programming enthusiasts**
 
-[Report Bug](https://github.com/codev-aryan/sqlite-implementation/issues) • [Request Feature](https://github.com/codev-aryan/sqlite-implementation/issues)
+[Report Bug](https://github.com/mehta-aryan/sqlite-implementation/issues) • [Request Feature](https://github.com/mehta-aryan/sqlite-implementation/issues)
 
 </div>
