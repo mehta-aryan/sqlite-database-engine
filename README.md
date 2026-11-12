@@ -10,7 +10,7 @@
 
 **A from-scratch SQLite-compatible database engine demonstrating deep expertise in systems programming, binary file formats, and query optimization.**
 
-[Features](#-core-capabilities) • [Technical Deep Dives](#-technical-deep-dives) • [Architecture](#-architecture) • [Build Instructions](#-build--run)
+[Features](#-core-capabilities) • [Technical Deep Dives](#-technical-deep-dives) • [Architecture](#%ef%b8%8f-architecture) • [Build Instructions](#-build--run)
 
 </div>
 
@@ -245,8 +245,8 @@ The engine is organized into modular components following clean separation of co
 
 ```bash
 # Clone the repository
-git clone https://github.com/mehta-aryan/sqlite-implementation.git
-cd sqlite-implementation
+git clone https://github.com/mehta-aryan/sqlite-database-engine.git
+cd sqlite-database-engine
 
 # Create build directory
 mkdir build && cd build
@@ -313,6 +313,6 @@ This project deepened my understanding of:
 
 **Built with ❤️ for systems programming enthusiasts**
 
-[Report Bug](https://github.com/mehta-aryan/sqlite-implementation/issues) • [Request Feature](https://github.com/mehta-aryan/sqlite-implementation/issues)
+[Report Bug](https://github.com/mehta-aryan/sqlite-database-engine/issues) • [Request Feature](https://github.com/mehta-aryan/sqlite-database-engine/issues)
 
 </div>
